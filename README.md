@@ -11,6 +11,7 @@
 [![python](https://img.shields.io/badge/python_3.8-passing-success)](https://github.com/OML-Team/open-metric-learning/actions/workflows/python-versions.yaml/badge.svg?)
 [![python](https://img.shields.io/badge/python_3.9-passing-success)](https://github.com/OML-Team/open-metric-learning/actions/workflows/python-versions.yaml/badge.svg?)
 [![python](https://img.shields.io/badge/python_3.10-passing-success)](https://github.com/OML-Team/open-metric-learning/actions/workflows/python-versions.yaml/badge.svg?)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/churnikov/open-metric-learning/blob/master/examples/intro.ipynb>)
 
 <div align="left">
 
