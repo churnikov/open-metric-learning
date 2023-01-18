@@ -5,4 +5,4 @@ Get started using Config API
 
 .. mdinclude:: config_advanced.md
 
-.. mdinclude:: config_inference.md
+.. include:: config_inference.rst

@@ -1,3 +1,5 @@
+.. _usage-with-custom-dataset:
+
 ## Usage with custom dataset
 The only difference from the public dataset case is that you have to implement the converter by yourself.
 We expect the `.csv` file in the following format:
